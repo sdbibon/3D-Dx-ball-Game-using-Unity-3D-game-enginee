@@ -1,0 +1,11 @@
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\UnityEditor.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\UnityEngine.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\Mono.Cecil.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\nunit.framework.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\Unity.DataContract.dll
+E:\Study\3.2(Aust)\Unity Dxball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Study\3.2(Aust)\Unity Dxball\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Study\3.2(Aust)\Unity Dxball\obj\Debug\Assembly-CSharp.dll
+E:\Study\3.2(Aust)\Unity Dxball\obj\Debug\Assembly-CSharp.pdb
